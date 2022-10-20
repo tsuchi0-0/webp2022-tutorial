@@ -1,0 +1,11 @@
+.l_parent{
+    background-color: #7cdbd4;
+    width: 100%;
+    height: auto;
+}
+.l_child{
+    background-color: rgb(227, 201, 166);
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;;
+}
